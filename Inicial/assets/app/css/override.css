@@ -1,0 +1,27 @@
+/* Override Template Styles */
+
+.header{
+    background: url("../images/projeto-perfil.jpg") no-repeat center top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size:cover;
+    background-size: cover;   
+}
+
+.header-small {
+    font-size: .70em;
+    color: #ACD146;
+}
+
+.navbar-brand {
+    padding-top: 0px;
+}
+
+.tab-features .tab-content {
+    height: 450px;
+}
+
+
+/* Links of current section in the menu should be white */
+.is-scrolling .navbar-nav>.active>a, .is-scrolling .navbar-nav>.active>a:hover, .is-scrolling .navbar-nav>.active>a:focus {
+    color: #ACD146;
+}

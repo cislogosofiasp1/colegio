@@ -1,0 +1,150 @@
+/* ==========================================================================
+   COLOR: BLUE - #2957A4, #3498db
+========================================================================== */ 
+a, .text-color {
+    color: #2957A4;
+}
+
+.color-bg {
+    background-color: #2957A4;
+}
+
+/*------------------------------------------*/
+/*   Red Buttons 
+/*------------------------------------------*/
+.btn-color-ghost {
+    background: transparent;
+    color: #2957A4;
+    border-color: #2957A4;
+}
+
+.btn-color, .btn-color-ghost:hover {
+    background: #2957A4;
+    color: #fff;
+    border-color: #2957A4;
+}
+
+.btn-color:hover {
+    background: #ffffff;
+    color: #2957A4;
+    border-color: #2957A4;
+}
+
+.btn-white {
+    color: #2957A4;
+}
+
+.navbar-nav>li>a.btn-signup {
+    background: #2957A4;
+    color: #ffffff;
+    border-color: #2957A4;
+}
+
+.navbar-nav>li>a.btn-signup:hover, .navbar-nav>li>a.btn-signup:focus {
+    background: #ffffff;
+    color: #2957A4;
+    border-color: #ffffff;
+}
+
+/*------------------------------------------*/
+/*   Header Solid Bg
+/*------------------------------------------*/
+.solid-bg{
+    background:none;
+    background-color: #2957A4;
+}
+
+.navbar-nav>li>a.btn-white{
+    color: #2957A4;
+}
+
+/*------------------------------------------*/
+/*   Header App
+/*------------------------------------------*/
+.type .hero-section span{
+    background-color: #2957A4;
+}
+
+/*------------------------------------------*/
+/*   Form
+/*------------------------------------------*/
+.form-control {
+    border: 2px solid #3498db;
+}
+
+/*------------------------------------------*/
+/*   Icons
+/*------------------------------------------*/
+.icon-lg:hover, .icon-lg:focus, .icon-sm:hover, .icon-sm:focus {
+    color:#2957A4;
+}
+
+/*------------------------------------------*/
+/*   Preloader
+/*------------------------------------------*/
+.preloader{
+    background-color: #2957A4;
+}
+
+/*------------------------------------------*/
+/*   Navbar Links Menu
+/*------------------------------------------*/
+.is-scrolling .navbar-nav>.active>a, .is-scrolling .navbar-nav>.active>a:hover, .is-scrolling .navbar-nav>.active>a:focus {
+    color: #2957A4;
+    background-color: transparent;
+}
+
+/*------------------------------------------*/
+/*   Login/Signup Modal
+/*------------------------------------------*/
+.login .modal-header .modal-title span{
+    font-weight: 400;
+    color: #2957A4;
+}
+
+/*------------------------------------------*/
+/*   Pricing Tab
+/*------------------------------------------*/
+.pricing-tab {
+    border: 3px solid #3498db;
+}
+
+.pricing-tab h4 {
+    border-bottom: 3px solid #3498db;
+}
+
+.pricing-tab .ribbon .popular{
+    background-color: #2957A4;
+}
+
+/*------------------------------------------*/
+/*   Team
+/*------------------------------------------*/
+.team-img .img-icons span i:hover{
+    color: #2957A4;
+}
+
+/*------------------------------------------*/
+/*   Signup-Divider & Fast-Reg
+/*------------------------------------------*/
+.signup-divider .form-control:focus{
+    border-color: #2957A4;
+}
+
+.fast-reg .form-control:focus{
+    background-color: #2957A4;
+    border-color: #2957A4;
+    box-shadow: none;
+}
+
+/*------------------------------------------*/
+/*   Footer
+/*------------------------------------------*/
+.footer a:hover{
+    color: #2957A4;
+}
+
+
+
+
+
